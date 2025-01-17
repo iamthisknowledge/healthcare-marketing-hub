@@ -9,7 +9,7 @@ export function DashboardShell() {
             <span className="text-sm font-medium px-2 py-1 bg-emerald-50 rounded">Marketing Analytics</span>
           </div>
           <h1 className="text-3xl font-bold text-gray-900">
-            Marketing Manager's Time-Saving Dashboard
+            Marketing Manager&apos;s Time-Saving Dashboard
           </h1>
           <p className="mt-2 text-gray-600">
             Transform your marketing workflow from manual to automated
